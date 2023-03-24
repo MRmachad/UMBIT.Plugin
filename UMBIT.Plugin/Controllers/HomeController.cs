@@ -4,11 +4,11 @@ using UMBIT.Plugin.Models;
 
 namespace UMBIT.Plugin.Controllers
 {
-    public class Home_Controller : Controller
+    public class HomeController : Controller
     {
-        private readonly ILogger<Home_Controller> _logger;
+        private readonly ILogger<HomeController> _logger;
 
-        public Home_Controller(ILogger<Home_Controller> logger)
+        public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
