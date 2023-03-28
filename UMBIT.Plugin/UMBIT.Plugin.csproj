@@ -12,6 +12,7 @@
 
 	<ItemGroup>
 		<EmbeddedResource Include=".\Views\**\*.*" />
+		<EmbeddedResource Include=".\wwwroot\**\*.*" />
 	</ItemGroup>
 
 </Project>
