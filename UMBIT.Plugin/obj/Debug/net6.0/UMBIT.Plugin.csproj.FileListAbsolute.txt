@@ -70,7 +70,6 @@ D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\UMBIT.Plugin.RazorAss
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\UMBIT.Plugin.RazorAssemblyInfo.cs
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\appsettings.Development.json
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\appsettings.json
-D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.staticwebassets.runtime.json
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.exe
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.deps.json
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.runtimeconfig.json
@@ -78,9 +77,7 @@ D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.dll
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\bin\Debug\net6.0\UMBIT.Plugin.pdb
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\staticwebassets.build.json
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\staticwebassets.development.json
-D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\scopedcss\bundle\UMBIT.Plugin.styles.css
-D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\scopedcss\projectbundle\UMBIT.Plugin.bundle.scp.css
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\UMBIT.Plugin.dll
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\refint\UMBIT.Plugin.dll
 D:\Dev\ByMySelf\UMBIT.Plugin\UMBIT.Plugin\obj\Debug\net6.0\UMBIT.Plugin.pdb
