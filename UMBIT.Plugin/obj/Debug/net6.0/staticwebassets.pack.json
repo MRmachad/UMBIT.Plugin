@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\wwwroot\\lib\\baixados.jpg",
+      "PackagePath": "staticwebassets\\lib\\baixados.jpg"
+    },
+    {
       "Id": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
