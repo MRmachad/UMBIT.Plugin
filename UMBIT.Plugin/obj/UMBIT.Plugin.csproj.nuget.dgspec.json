@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj": {}
+    "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj": {
+    "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
+        "projectUniqueName": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
         "projectName": "UMBIT.Plugin",
-        "projectPath": "D:\\Dev\\ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
-        "packagesPath": "C:\\Users\\LeonardoSilva\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin\\obj\\",
+        "projectPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
+        "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LeonardoSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

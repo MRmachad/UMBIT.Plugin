@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "UMBIT.Plugin/1.0.0": {
+        "dependencies": {
+          "UMBIT.MVC.Core": "1.0.0.0"
+        },
         "runtime": {
           "UMBIT.Plugin.dll": {}
+        }
+      },
+      "UMBIT.MVC.Core/1.0.0.0": {
+        "runtime": {
+          "UMBIT.MVC.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "UMBIT.Plugin/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMBIT.MVC.Core/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
