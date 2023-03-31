@@ -12,7 +12,15 @@
 
 	<ItemGroup>
 		<EmbeddedResource Include=".\Views\**\*.*" />
-		<EmbeddedResource Include=".\wwwroot\**\*.*" />
+		<EmbeddedResource Include=".\Content\UMBIT.Plugin\wwwroot\**\*.*" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="UMBIT.MVC.Core">
+	    <HintPath>Binarios\UMBIT.MVC.Core.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+
 
 </Project>
