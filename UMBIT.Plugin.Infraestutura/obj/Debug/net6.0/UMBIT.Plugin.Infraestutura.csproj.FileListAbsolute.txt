@@ -1,0 +1,16 @@
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Plugin.Infraestutura.deps.json
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Plugin.Infraestutura.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Plugin.Infraestutura.pdb
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Plugin.Dominio.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\bin\Debug\net6.0\UMBIT.Plugin.Dominio.pdb
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.csproj.AssemblyReference.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.AssemblyInfoInputs.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.AssemblyInfo.cs
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.csproj.CoreCompileInputs.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.csproj.CopyComplete
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\refint\UMBIT.Plugin.Infraestutura.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\UMBIT.Plugin.Infraestutura.pdb
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Infraestutura\obj\Debug\net6.0\ref\UMBIT.Plugin.Infraestutura.dll

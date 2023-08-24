@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMBIT.Plugin", "UMBIT.Plugin\UMBIT.Plugin.csproj", "{D64E4BF0-AA88-4327-B111-0E31F06BF343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UMBIT.Plugin", "UMBIT.Plugin\UMBIT.Plugin.csproj", "{D64E4BF0-AA88-4327-B111-0E31F06BF343}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Interface", "1 - Interface", "{9C51B4F6-7444-46D4-9D92-DC59B3F8DB8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{0CE1B805-AECF-4294-A68A-B96F198EC3A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infraestrutura", "3 - Infraestrutura", "{F88D3571-D0D2-4B40-8B23-4D293601BF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMBIT.Plugin.Dominio", "UMBIT.Plugin.Dominio\UMBIT.Plugin.Dominio.csproj", "{802E0697-EE37-48E9-9ECE-D937DD93E73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMBIT.Plugin.Infraestrutura", "UMBIT.Plugin.Infraestutura\UMBIT.Plugin.Infraestrutura.csproj", "{7B37BB2B-6313-4AF8-BDE2-CE599476CB60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +25,22 @@ Global
 		{D64E4BF0-AA88-4327-B111-0E31F06BF343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D64E4BF0-AA88-4327-B111-0E31F06BF343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D64E4BF0-AA88-4327-B111-0E31F06BF343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802E0697-EE37-48E9-9ECE-D937DD93E73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802E0697-EE37-48E9-9ECE-D937DD93E73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802E0697-EE37-48E9-9ECE-D937DD93E73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802E0697-EE37-48E9-9ECE-D937DD93E73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B37BB2B-6313-4AF8-BDE2-CE599476CB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B37BB2B-6313-4AF8-BDE2-CE599476CB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B37BB2B-6313-4AF8-BDE2-CE599476CB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B37BB2B-6313-4AF8-BDE2-CE599476CB60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D64E4BF0-AA88-4327-B111-0E31F06BF343} = {9C51B4F6-7444-46D4-9D92-DC59B3F8DB8F}
+		{802E0697-EE37-48E9-9ECE-D937DD93E73A} = {0CE1B805-AECF-4294-A68A-B96F198EC3A2}
+		{7B37BB2B-6313-4AF8-BDE2-CE599476CB60} = {F88D3571-D0D2-4B40-8B23-4D293601BF4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD42CB34-DF27-4FDF-972A-C0EF075AE2FB}

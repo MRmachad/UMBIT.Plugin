@@ -1,32 +1,23 @@
-﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using UMBIT.Plugin.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using UMBIT.Plugin.Dominio.Entidades;
+using UMBIT.Plugin.Dominio.Interfaces;
 
 namespace UMBIT.Plugin.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IServicoDePessoa servicoDePessoa;
+        public HomeController(IServicoDePessoa servicoDePessoa)
         {
-            _logger = logger;
+            this.servicoDePessoa = servicoDePessoa;
         }
 
         public IActionResult Index()
         {
+            this.servicoDePessoa.Adicione(new Pessoa());
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }
