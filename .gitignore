@@ -1,0 +1,7 @@
+.vs
+./UMBIT.Plugin/obj
+./UMBIT.Plugin/bin
+./UMBIT.Plugin.Dominio/obj
+./UMBIT.Plugin.Dominio/bin
+./UMBIT.Plugin.Infraestutura/obj
+./UMBIT.Plugin.Infraestutura/bin
