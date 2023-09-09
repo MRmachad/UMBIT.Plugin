@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8HF0yN0ZR0axbI+X7ALeYBYjK6jTo9ZxkZp9hCRMlPG7uhc6Pa97QAhoeXG9yohlCt5JlMRf5K7SLytk+r+oEw==",
+  "dgSpecHash": "FwqmS72Dh0FkvRfCRXFMqTyWEwopekuld/+RnsaJEEVqkAGP5/vrnsot3XZKPmTcMdzX27FpNVW7kZu4jvZNEA==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
+  "projectFilePath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

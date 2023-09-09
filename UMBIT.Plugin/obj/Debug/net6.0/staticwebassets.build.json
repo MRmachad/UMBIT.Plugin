@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "ul4Js7owCFlzSf4zuiIKL4jpcpgHHdBPXtRZ68O48AQ=",
-  "Source": "UMBIT.Plugin",
-  "BasePath": "_content/UMBIT.Plugin",
+  "Hash": "v81C4Z7YMtpdAOztK6MDiduLfUZJbm0QN4gxrX3iNC0=",
+  "Source": "UMBIT.Plugin.InterfaceWeb",
+  "BasePath": "_content/UMBIT.Plugin.InterfaceWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

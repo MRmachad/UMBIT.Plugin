@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
-      "projectName": "UMBIT.Plugin",
-      "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
+      "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
+      "projectName": "UMBIT.Plugin.InterfaceWeb",
+      "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
       "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
       "outputPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\obj\\",
       "projectStyle": "PackageReference",
