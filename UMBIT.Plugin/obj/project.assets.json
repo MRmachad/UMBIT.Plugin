@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "UMBIT.Plugin.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/UMBIT.Plugin.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UMBIT.Plugin.Dominio.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UMBIT.Plugin.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../UMBIT.Plugin.Dominio/UMBIT.Plugin.Dominio.csproj",
+      "msbuildProject": "../UMBIT.Plugin.Dominio/UMBIT.Plugin.Dominio.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "UMBIT.Plugin.Dominio >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\macha\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
-      "projectName": "UMBIT.Plugin",
-      "projectPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.csproj",
+      "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
+      "projectName": "UMBIT.Plugin.InterfaceWeb",
+      "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
       "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Plugin\\UMBIT.Plugin\\obj\\",
+      "outputPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj": {
+              "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

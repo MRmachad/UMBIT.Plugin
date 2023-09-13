@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UMBIT.Plugin.Dominio/1.0.0": {
+        "dependencies": {
+          "UMBIT.Infraestrutura.Core": "1.0.0.0"
+        },
+        "runtime": {
+          "UMBIT.Plugin.Dominio.dll": {}
+        }
+      },
+      "UMBIT.Infraestrutura.Core/1.0.0.0": {
+        "runtime": {
+          "UMBIT.Infraestrutura.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UMBIT.Plugin.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UMBIT.Infraestrutura.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\bin\Debug\net6.0\UMBIT.Plugin.Dominio.deps.json
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\bin\Debug\net6.0\UMBIT.Plugin.Dominio.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\bin\Debug\net6.0\UMBIT.Plugin.Dominio.pdb
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.csproj.AssemblyReference.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.AssemblyInfoInputs.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.AssemblyInfo.cs
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.csproj.CoreCompileInputs.cache
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.csproj.CopyComplete
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\refint\UMBIT.Plugin.Dominio.dll
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\UMBIT.Plugin.Dominio.pdb
+D:\Dev\_Pessoal\UMBIT.Plugin\UMBIT.Plugin.Dominio\obj\Debug\net6.0\ref\UMBIT.Plugin.Dominio.dll
