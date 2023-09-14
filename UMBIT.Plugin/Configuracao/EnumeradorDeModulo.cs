@@ -6,7 +6,7 @@ namespace UMBIT.Plugin.InterfaceWeb.Configuracao
     {
         public static readonly UMBIT MODULO_RH = new UMBIT(
            01,
-           "Hello World",
+           "Modulo Teste",
            "fas fa-users",
            EnumeradorDeRecurso.TESTE
        );
