@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YrvYewump58oY7VG1WGbHu1peLfSl9vBILstIDVIWUo2cBGSA86YnyaPbkyEHfMu6PSzZSiZGayh9sAaW+H3Fg==",
+  "dgSpecHash": "LeKGfcCxJNPr6wqpXhQAz4Yk/N2WwmXaVR74ErVs2raJkqMQho/RGGBtS2ULJ8ke7qJ4P9uRqpoUPLhohjIX+Q==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj",
+  "projectFilePath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LeonardoSilva\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
   ],

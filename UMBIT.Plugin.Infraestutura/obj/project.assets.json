@@ -636,11 +636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
+      "projectUniqueName": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
       "projectName": "UMBIT.Plugin.Infraestrutura",
-      "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
+      "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
       "packagesPath": "C:\\Users\\LeonardoSilva\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\obj\\",
+      "outputPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LeonardoSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -651,14 +651,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/grupotse/TSE.Infraestrutura/_packaging/TSE/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/umbitbr/2de3038e-b66d-42c6-a8a2-afa1e0e212b8/_packaging/UMBIT/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj": {
-              "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj"
+            "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj": {
+              "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj"
             }
           }
         }
@@ -694,7 +696,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

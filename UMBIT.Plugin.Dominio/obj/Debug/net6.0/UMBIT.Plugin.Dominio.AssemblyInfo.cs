@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UMBIT.Plugin.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2704f0f9cf8e370b75e32d2bae53c662ef753562")]
 [assembly: System.Reflection.AssemblyProductAttribute("UMBIT.Plugin.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UMBIT.Plugin.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

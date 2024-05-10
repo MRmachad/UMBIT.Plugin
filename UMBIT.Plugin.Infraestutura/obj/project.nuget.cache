@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h5JEMJRQ4R2Ib6sDJ3z6CcQrvPKuYCQT74Gqa1CnO6Dltphr2SLCcmRbugqe+ve4z0OcRnWPrTeIBjZ05mLjJw==",
+  "dgSpecHash": "EeDaR8dfiCIn8FCFk7rxG2nfg0zGYCNdVaJxX0QB3qe+0GmWABjbyWzDO9r/GRZy9y7/GsRkb43q32+AoB2/wQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\_ByMySelf\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
+  "projectFilePath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LeonardoSilva\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\LeonardoSilva\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
