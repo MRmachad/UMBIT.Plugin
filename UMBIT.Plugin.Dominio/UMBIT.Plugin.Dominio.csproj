@@ -9,6 +9,10 @@
 	</Target>
 
 	<ItemGroup>
+	  <PackageReference Include="FluentValidation" Version="11.7.1" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<Reference Include="UMBIT.Infraestrutura.Core">
 			<HintPath>..\Binarios\UMBIT.Infraestrutura.Core.dll</HintPath>
 		</Reference>

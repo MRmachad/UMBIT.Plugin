@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FwqmS72Dh0FkvRfCRXFMqTyWEwopekuld/+RnsaJEEVqkAGP5/vrnsot3XZKPmTcMdzX27FpNVW7kZu4jvZNEA==",
+  "dgSpecHash": "EoCqahfUCIIykU3NrA1JTjOAZ6t/RHIA9WpmUudhJWpW5E3FZuqDpDmlgfKmI359JvkSx9ZuIC0oTIbQ6i4W/A==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin\\UMBIT.Plugin.InterfaceWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeonardoSilva\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

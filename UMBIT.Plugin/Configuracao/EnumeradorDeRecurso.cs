@@ -6,7 +6,7 @@ namespace UMBIT.Plugin.InterfaceWeb.Configuracao
     {
         public static readonly EnumeradorDeRecurso TESTE = new EnumeradorDeRecurso(
             0101,
-            "IndexPlugin",
+            "Teste Recurso",
             "Home",
             "Index",
             true,

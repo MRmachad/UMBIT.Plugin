@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "FluentValidation/11.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -247,6 +260,9 @@
       "UMBIT.Plugin.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.7.1"
+        },
         "compile": {
           "bin/placeholder/UMBIT.Plugin.Dominio.dll": {}
         },
@@ -257,6 +273,29 @@
     }
   },
   "libraries": {
+    "FluentValidation/11.7.1": {
+      "sha512": "w9Al4gls6iVGFbTd/NPOPlwzqDTghH+ntL4c4FYUatc+LeybpIwhYArLykZJP/VjF2n3ihj3ws+1yd7KR5lQlg==",
+      "type": "package",
+      "path": "fluentvalidation/11.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.7.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/6.0.0": {
       "sha512": "BdHAtHzfQt3rltgSoYamSlHg2qawPtEDT677/bcSJlO8lQ/lj6XWlusM0TOt59O8Sbqm3hAC1a+4cEBxmv56pw==",
       "type": "package",
@@ -592,19 +631,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\macha\\.nuget\\packages\\": {}
+    "C:\\Users\\LeonardoSilva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
+      "projectUniqueName": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
       "projectName": "UMBIT.Plugin.Infraestrutura",
-      "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
-      "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\obj\\",
+      "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\UMBIT.Plugin.Infraestrutura.csproj",
+      "packagesPath": "C:\\Users\\LeonardoSilva\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Infraestutura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LeonardoSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -612,14 +651,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/grupotse/TSE.Infraestrutura/_packaging/TSE/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/umbitbr/2de3038e-b66d-42c6-a8a2-afa1e0e212b8/_packaging/UMBIT/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj": {
-              "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj"
+            "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj": {
+              "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT\\UMBIT.Plugin\\UMBIT.Plugin.Dominio\\UMBIT.Plugin.Dominio.csproj"
             }
           }
         }
@@ -655,7 +696,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
